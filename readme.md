@@ -1,0 +1,1 @@
+File I created 30.12.2024 for study course Git
